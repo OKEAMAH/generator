@@ -63,7 +63,7 @@
     "jmespath": "^0.15.0",
     "js-yaml": "^4.1.0",
     "levenshtein-edit-distance": "^2.0.5",
-    "loglevel": "^1.6.8",
+    "loglevel": "^1.9.1",
     "minimatch": "^3.0.4",
     "node-fetch": "^3.3.2",
     "nunjucks": "^3.2.0",
