@@ -62,7 +62,7 @@
     "global-dirs": "^3.0.0",
     "jmespath": "^0.15.0",
     "js-yaml": "^4.1.0",
-    "levenshtein-edit-distance": "^2.0.5",
+    "levenshtein-edit-distance": "^3.0.1",
     "loglevel": "^1.6.8",
     "minimatch": "^3.0.4",
     "node-fetch": "^3.3.2",
