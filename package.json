@@ -54,7 +54,7 @@
     "@npmcli/arborist": "7.5.2",
     "@npmcli/config": "^8.0.2",
     "@smoya/multi-parser": "^5.0.7",
-    "ajv": "^8.12.0",
+    "ajv": "^8.13.0",
     "chokidar": "^3.6.0",
     "commander": "^6.1.0",
     "filenamify": "^6.0.0",
