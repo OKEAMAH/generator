@@ -52,7 +52,7 @@
     "@asyncapi/generator-react-sdk": "^1.0.18",
     "@asyncapi/parser": "^3.0.14",
     "@npmcli/arborist": "7.5.2",
-    "@npmcli/config": "^8.0.2",
+    "@npmcli/config": "^8.3.3",
     "@smoya/multi-parser": "^5.0.7",
     "ajv": "^8.12.0",
     "chokidar": "^3.6.0",
